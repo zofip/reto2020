@@ -1,6 +1,6 @@
 # RETO FRONTEND 2020
 
-Hola, para poder pasar a la siguiente etapa en el proceso de selección de EDteam necesitas terminar el siguiente reto detallado a continuación:
+Hola, para poder pasar a la siguiente etapa en el proceso de selección necesitas terminar el siguiente reto detallado a continuación:
 
 1. Debes configurar ESlint para este proyecto con la guía de estilos de AirBnB
 2. Debes crear un CRUD completo de Posts de un Blog usando la API fake: https://jsonplaceholder.typicode.com
